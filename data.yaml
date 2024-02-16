@@ -1,0 +1,19 @@
+path: ../datasets/waste-classification-dataset
+
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: battery
+  1: biological
+  2: brown-glass
+  3: cardboard
+  4: clothes
+  5: green-glass
+  6: metal
+  7: paper
+  8: plastic
+  9: shoes
+  10: trash
+  11: white-glass
