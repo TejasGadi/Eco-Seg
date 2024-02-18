@@ -6,6 +6,6 @@ prototype_version: 1.0
 date: "2024-02-16"
 
 runtimes:
-  - editor: Workbench
-    kernel: Python 3.10
-    edition: Standard
+  - editor: JupyterLab
+    kernel: Python 3.9.13
+    edition: Nvidia GPU
